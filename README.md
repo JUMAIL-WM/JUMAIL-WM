@@ -1,7 +1,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="50%" align="center" src="https://github.com/JUMAIL-WM/JUMAIL-WM/blob/main/Black%20and%20Blue%20Neon%20Tech%20Online%20Sale%20Cyber%20Monday%20Sale%20Video.png">
 <h1 align="center">Hi 👋, I'm Jumail.Wm</h1>
 <h3 align="center">I am a Undergraduate Software Engineer</h3> <br>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 
 - 🔭 I’m currently working on [BOOK STORE SYSTEM](https://github.com/JUMAIL-WM/BOOK-STORE-JUMAIL.git)
